@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<booking>
+    <movie>RRR</movie>
+    <date>18-08-2023</date>
+    <time>6:30PM</time>
+    <seats>3</seats>
+</booking>

@@ -1,0 +1,54 @@
+*{
+    margin:0;
+}
+
+.navbar{
+    width:100%;
+    background-color: #627c8f;
+    padding:7px;
+}
+
+.navbar b,li{
+    padding:7px;
+    color:#ebf0f1;
+    
+}
+
+.navbar li{
+    font-size: large;
+    display:inline;
+}
+
+.theatres .theatre1 table{
+    border-radius: 10px;
+}
+
+.theatres .theatre1 td{
+    color:rgb(4, 183, 4);
+    background-color: #ebf0f1;
+    
+}
+
+.theatres .theatre th{
+    border:none;
+}
+
+.theatres .theatre1 th,td{
+    text-align: center;
+    padding:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+form{
+    background-color: #ebf0f1;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    border-radius: 5px;
+    background-color: #627c8f;
+    color:#ebf0f1;
+    padding:5px;
+    font-size:medium;
+}
